@@ -1,0 +1,24 @@
+.message {
+  width: 100%;
+  height: auto;
+  background-color: #6ab7e4;
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 10%;
+  align-items: center;
+}
+
+.message h2,
+.message p {
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+}
+
+.error {
+  background-color: #eb5555;
+}
+
+.success {
+  background-color: #65e7d5;
+}
